@@ -1,4 +1,4 @@
-# 
+# secure Plugin for AnyDesk for PC | AnyDesk for Windows - session-management and file-transfer offers the most advanced AnyDesk for PC | AnyDesk for Windows plugin, with
 
 
 
